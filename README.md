@@ -1,4 +1,5 @@
-Static LinkedIn Page
+STATIC LINKEDIN PAGE
+
 Welcome to the repository for the Static LinkedIn Page project! This project showcases a static version of a LinkedIn profile page, designed to demonstrate web development skills and proficiency in creating responsive, visually appealing web pages.
 
 Overview
